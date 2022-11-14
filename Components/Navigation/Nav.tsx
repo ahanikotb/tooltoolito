@@ -9,6 +9,7 @@ import {
   Button,
   IconButton,
 } from "@mui/material";
+import Image from "next/image";
 import { useRouter } from "next/router";
 import MenuIcon from "@mui/icons-material/Menu";
 import SideMenu from "./Sidemenu";
@@ -92,6 +93,27 @@ export default function Nav(props: any) {
             {"TOOLTOOLITO"}
           </Typography>
 
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <a
+              href="https://www.buymeacoffee.com/tooltoolito"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <Image
+                width={200 * 0.7}
+                height={60 * 0.7}
+                src="/buymeacoffee.png"
+                alt="Buy Me A Coffee"
+              />
+            </a>
+          </div>
+          {/* 
           <Button
             endIcon={<ExpandMoreIcon />}
             color="inherit"
@@ -101,9 +123,9 @@ export default function Nav(props: any) {
             onClick={handleClick}
           >
             ERC20 TOKEN TOOLS
-          </Button>
+          </Button> */}
 
-          <Menu anchorEl={anchorEl} open={open}>
+          {/* <Menu anchorEl={anchorEl} open={open}>
             {makeMenuItem(
               "/tools/Cryptocurrency/token-price-calculator",
               "TOKEN PRICE CALCULATOR"
@@ -112,7 +134,7 @@ export default function Nav(props: any) {
               "/tools/Cryptocurrency/eth-unit-converter",
               "ETH UNIT CONVERTER"
             )}
-          </Menu>
+          </Menu> */}
         </Toolbar>
       </AppBar>
 
