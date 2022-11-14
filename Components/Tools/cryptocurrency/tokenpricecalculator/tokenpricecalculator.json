@@ -1,0 +1,23 @@
+{
+  "name": "Token Price Calculator",
+  "toolType": "Calculator",
+  "toolCategory": "Cryptocurrency",
+  "description": "Use this calculator to figure out how to price and set Total Supply for your ERC20/BEP20 Token.",
+  "siteTitle": "Token Price Calculator",
+  "seoDescription": "Use this calculator to figure out how to price and set Total Supply for your ERC20/BEP20 Token.",
+  "articleTitle": "Token Price Calculator: (Explained)",
+  "articleAuthor": "TOOLTOOLITO Team",
+  "toolKeywords": "Uniswap, PancakeSwap, Liquidity, Calculator, Token, Ethereum, Crypto",
+  "article": [
+    {
+      "t2": "How To Set Your Coin Price on PancakeSwap / Uniswap",
+      "p1": "So you just deployed your first cryptocurrency token and now you're wondering how to calculate the initial price.",
+      "p2": "The initial token price PancakeSwap is determined by the ratio at which you supply tokens to the liquidity pool.When you provide liquidity, you provide the 2 assets to which Pancakeswap will determine as equals. This should be your token and a certain amount of BNB/ETH or a stablecoin.Remember the token you’ve created has no value until the Liquidity Pool (LP) is provided hence it uses what you provide to determine the initial price."
+    },
+    {
+      "t2": "How it Works",
+      "p1": "Let’s say you provide 1000 BNB/ETH and 1000 of your token to create a liquidity pool for your token to be traded.To find the price for your token, divide the BNB/ETH or stablecoin amount by the token amount to get the token amount. then divide the token by the BNB/ETH or stablecoin to get the other side of the price.",
+      "p2": "Use the calculator to make it easier"
+    }
+  ]
+}

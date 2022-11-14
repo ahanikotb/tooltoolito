@@ -1,0 +1,21 @@
+{
+  "name": "Online Gif Maker",
+  "toolType": "Image Editor",
+  "toolCategory": "Images",
+  "description": "Make Gifs for free with this online tool!",
+  "siteTitle": "Online GIF Maker",
+  "seoDescription": "This Free Online GIF maker allows you to instantly create animated GIFs using seperate images.",
+  "articleTitle": "Free Online GIF Tool",
+  "articleAuthor": "TOOLTOOLITO Team",
+  "toolKeywords": "Gif, Animation, Tool",
+  "article": [
+    {
+      "p1": "This Free Online GIF maker allows you to instantly create animated GIFs using seperate images that the user uploads and orders."
+    },
+    {
+      "t1": "How To Create A GIF",
+      "p1": "Click on ADD Image and select the image you would like to sequence first. You can use PNG and JPEG file formats, after that click on it again and add as much images as you would like. ",
+      "p2": "When You have 2 images or more you can now click on Next and you will see the result in front of you. "
+    }
+  ]
+}

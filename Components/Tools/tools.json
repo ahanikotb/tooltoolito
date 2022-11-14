@@ -1,0 +1,8 @@
+[
+  { "name": "token-price-calculator", "category": "Cryptocurrency" },
+  { "name": "eth-unit-converter", "category": "Cryptocurrency" },
+  { "name": "gif-maker", "category": "Image Editing" },
+  { "name": "salarycalculator", "category": "Finance" },
+  { "name": "difference-checker", "category": "Text" },
+  { "name": "html-to-react-component", "category": "Coding" }
+]

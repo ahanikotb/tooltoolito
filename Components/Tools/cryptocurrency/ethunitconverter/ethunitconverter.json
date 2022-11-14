@@ -1,0 +1,18 @@
+{
+  "name": "Eth Unit Converter",
+  "toolType": "Unit Converter",
+  "toolCategory": "Cryptocurrency",
+  "description": "Easily convert between ETH,WEI and GWEI with this easy to use calculator.",
+  "siteTitle": "Eth Unit Converter",
+  "seoDescription": "Easily convert between ETH,WEI and GWEI with this easy to use calculator.",
+  "articleTitle": "Eth Unit Converter: (Explained)",
+  "articleAuthor": "TOOLTOOLITO Team",
+  "toolKeywords": "Wei, Eth, Gwei, Calculator, Token, Ethereum, Crypto",
+
+  "article": [
+    {
+      "p1": "Ethereum has a metric system of denominations used as units of ether. Each denomination has its own unique name (some bear the family name of seminal figures playing a role in evolution of computer science and cryptoeconomics). The smallest denomination aka base unit of ether is called Wei.",
+      "p2": "Use this calculator to convert between all the three units."
+    }
+  ]
+}

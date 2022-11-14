@@ -1,0 +1,19 @@
+{
+  "name": "React To HTML",
+  "toolType": "Converter",
+  "toolCategory": "Coding",
+  "description": "Html to React Components Converter, Convert Your HTML into React Components",
+  "siteTitle": "Html to React Components Converter",
+  "seoDescription": "Free Online Html to React Components Converter",
+  "articleTitle": "Convert Your Html to React Components",
+  "articleAuthor": "TOOLTOOLITO Team",
+  "toolKeywords": "HTML , React , Converter",
+
+  "article": [
+    {
+      "t2": "React is one of the best javascript frameworks to develop complex webapps in javascript leverage it's power by using it in your projects you can use this converter to quickly convert between html and react jsx",
+      "p1": "Use This Free Online Converter to quickly convert HTML to React Components",
+      "p2": ""
+    }
+  ]
+}

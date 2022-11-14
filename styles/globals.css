@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Violethe;
+  font-weight: regular;
+  src: local("Violethe"),
+    url("../fonts/violethe/Violethe.otf") format("opentype");
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}

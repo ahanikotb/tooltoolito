@@ -1,0 +1,19 @@
+{
+  "name": "Text Difference Checker",
+  "toolType": "Comparison",
+  "toolCategory": "Text",
+  "description": "Compare between two text files to find differences",
+  "siteTitle": "Free Online Text Difference Checker",
+  "seoDescription": "Compare Character for Character with this free difference checker",
+  "articleTitle": "Free String Difference Checker",
+  "articleAuthor": "TOOLTOOLITO Team",
+  "toolKeywords": "String, Difference, Checker",
+  "article": [
+    {
+      "p1": "This Free Online text Difference checker highlights the difference between two text files."
+    },
+    {
+      "t2": "Find the diffrence between bytecode , serial numbers and strings with this free tool"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "tooltoolito",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "initTool": "node create_tool.js",
+    "build": "next build && next export",
+    "postbuild": "next-sitemap",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.13",
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.8",
+    "@types/string-similarity": "^4.0.0",
+    "bignumber.js": "^9.1.0",
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.2",
+    "firebase": "^9.14.0",
+    "gifshot": "^0.4.5",
+    "htmr": "^1.0.2",
+    "lodash": "^4.17.21",
+    "next": "13.0.2",
+    "next-sitemap": "^3.1.31",
+    "react": "18.2.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "18.2.0",
+    "react-element-to-jsx-string": "^15.0.0",
+    "rich-textarea": "^0.19.0",
+    "string-similarity": "^4.0.4",
+    "typed.js": "^2.0.12",
+    "typescript": "4.8.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.188"
+  }
+}

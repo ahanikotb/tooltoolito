@@ -1,0 +1,18 @@
+{
+  "name": "Salary Calculator",
+  "toolType": "Calculator",
+  "toolCategory": "Finance",
+  "description": "Caclulate your Monthly Salary from an Hourly Salary.",
+  "siteTitle": "Salary Calculator",
+  "seoDescription": "Caclulate your Monthly Salary from an Hourly Salary. Free online calculator from TOOLTOOLITO",
+  "articleTitle": "How to Caclulate your Monthly Salary",
+  "articleAuthor": "TOOLTOOLITO Team",
+  "toolKeywords": "Monthly, Salary, Caclulator",
+  "article": [
+    {
+      "t2": "To Calculate Your Monthly Salary",
+      "p1": "To Caclulate your monthly salary you need to multiply the hourly wage by hours worked a week and then multiply for four weeks.",
+      "p2": "example: 12$ per hour with a 9 hr workday and 5 days in a week  = (12 * 9 * 5 * 4) =  2160$  Monthly"
+    }
+  ]
+}
